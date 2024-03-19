@@ -1,0 +1,9 @@
+*{border: solid;}
+body{border: none;}
+.cards{display: inline-block;
+    flex-direction: row;
+    text-align: center;}
+.cards>h1{margin:0px 10px 0px 10px;}
+.cards>p{margin: o;
+padding: 10px;}
+div{width: 350px;}
